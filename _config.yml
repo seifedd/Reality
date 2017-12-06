@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 it is about: social life skills & life experience
              technology & engineering staff
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Reality" # the subpath of your site, e.g. /blog
 url: "http://RealitExper.com" # the base hostname & protocol for your site
 twitter_username: seif_mejri
 github_username:  seifedd
