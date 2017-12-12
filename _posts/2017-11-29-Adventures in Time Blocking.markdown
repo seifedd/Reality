@@ -35,4 +35,31 @@ Who knows - maybe you’ll start to see a pattern of ideas around a topic. Or yo
 
 I don’t believe that writing down your ideas means you’ll get more of them. It just means that you’ll be able to look at them and say “Wow, I’ve got a bunch of ideas!”
 
+<div> 
+ <!--Disqus post comment section powered by Disqus -->
+    <div id="disqus_thread"></div>
+    <script>
+          /**
+          *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+          *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+          */
+        
+          var disqus_config = function () {
+              this.page.url = 'https://https-seifedd-github-io-reality';  // Replace PAGE_URL with your page's canonical URL variable
+              var disqus_developer = 1; // Comment out when the site is live
+              this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
+          
+          (function() { 
+            // DON'T EDIT BELOW THIS LINE
+              var d = document, s = d.createElement('script');
+              
+              s.src = 'https://https-seifedd-github-io-reality.disqus.com/embed.js';
+              
+              s.setAttribute('data-timestamp', +new Date());
+              (d.head || d.body).appendChild(s);
+          })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
 

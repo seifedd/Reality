@@ -6,8 +6,8 @@
 </description>
     <link>http://RealitExper.com/Reality/</link>
     <atom:link href="http://RealitExper.com/Reality/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Dec 2017 00:43:24 +0100</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2017 00:43:24 +0100</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2017 00:59:21 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2017 00:59:21 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -42,6 +42,34 @@ You’ve got it written down, so you can’t forget it.
 &lt;p&gt;Who knows - maybe you’ll start to see a pattern of ideas around a topic. Or you’ll see things that can fit together in a blog post.&lt;/p&gt;
 
 &lt;p&gt;I don’t believe that writing down your ideas means you’ll get more of them. It just means that you’ll be able to look at them and say “Wow, I’ve got a bunch of ideas!”&lt;/p&gt;
+
+&lt;div&gt; 
+ &lt;!--Disqus post comment section powered by Disqus --&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+    &lt;script&gt;
+          /**
+          *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+          *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+          */
+        
+          var disqus_config = function () {
+              this.page.url = &#39;https://https-seifedd-github-io-reality&#39;;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+              var disqus_developer = 1; // Comment out when the site is live
+              this.page.identifier = &quot;/Adventure-in-time-blocking.html&quot;; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+          };
+          
+          (function() { 
+            // DON&#39;T EDIT BELOW THIS LINE
+              var d = document, s = d.createElement(&#39;script&#39;);
+              
+              s.src = &#39;https://https-seifedd-github-io-reality.disqus.com/embed.js&#39;;
+              
+              s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+              (d.head || d.body).appendChild(s);
+          })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
