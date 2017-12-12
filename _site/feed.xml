@@ -4,16 +4,15 @@
     <title>RealitExper</title>
     <description>Awesome website.This website was designed in order to make my publications whether writen by me or my friend usefull for my other friends.
 </description>
-    <link>http://RealitExper.com/</link>
-    <atom:link href="http://RealitExper.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Dec 2017 23:55:41 +0100</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 23:55:41 +0100</lastBuildDate>
+    <link>http://RealitExper.com/Reality/</link>
+    <atom:link href="http://RealitExper.com/Reality/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Dec 2017 23:15:16 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2017 23:15:16 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Adventure in time blocking</title>
-        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;codehilite&quot;&gt;&lt;code&gt; People have ideas, but don’t remember them. Talk about spark file and how it closes the loop by taking action on it.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        <description>&lt;p&gt;People have ideas, but don’t remember them. Talk about spark file and how it closes the loop by taking action on it.&lt;/p&gt;
 
 &lt;p&gt;Something that I hear from many people is “I don’t have good ideas”.&lt;/p&gt;
 
@@ -46,8 +45,8 @@ You’ve got it written down, so you can’t forget it.
 
 </description>
         <pubDate>Wed, 29 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://RealitExper.com/Adventure-in-time-blocking.html</link>
-        <guid isPermaLink="true">http://RealitExper.com/Adventure-in-time-blocking.html</guid>
+        <link>http://RealitExper.com/Reality/Adventure-in-time-blocking.html</link>
+        <guid isPermaLink="true">http://RealitExper.com/Reality/Adventure-in-time-blocking.html</guid>
         
         
       </item>
@@ -70,8 +69,8 @@ You’ve got it written down, so you can’t forget it.
 
 </description>
         <pubDate>Tue, 28 Nov 2017 14:09:16 +0100</pubDate>
-        <link>http://RealitExper.com/Welcome to Jekyll.html</link>
-        <guid isPermaLink="true">http://RealitExper.com/Welcome to Jekyll.html</guid>
+        <link>http://RealitExper.com/Reality/Welcome to Jekyll.html</link>
+        <guid isPermaLink="true">http://RealitExper.com/Reality/Welcome to Jekyll.html</guid>
         
         
         <category>jekyll</category>

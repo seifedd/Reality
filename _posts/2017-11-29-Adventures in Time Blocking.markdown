@@ -2,10 +2,11 @@
 layout: post
 title:  "Adventure in time blocking"
 Description: ....
+Editor: Seifeddine Mejri
 permalink: Adventure-in-time-blocking.html
 ---
 
-     People have ideas, but don’t remember them. Talk about spark file and how it closes the loop by taking action on it.
+People have ideas, but don’t remember them. Talk about spark file and how it closes the loop by taking action on it.
 
 Something that I hear from many people is “I don’t have good ideas”.
 

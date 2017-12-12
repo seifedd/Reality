@@ -31,7 +31,7 @@
          text-transform:uppercase;
          font-size:1.2rem;
          font-weight:100;
-         color: green;
+         color: blue;
          padding:0 30px;
         }
 
@@ -197,7 +197,10 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 50;
+    text-transform: uppercase;
+    font-size: 1.2rem;
 }
 
 .post-list {
@@ -210,13 +213,17 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: medium;
     color: $grey-color;
 }
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 38px;
+}
+.post-hint{
+    font-size:medium;
+    color: $grey-color;
 }
 
 
@@ -229,10 +236,10 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 38px;
     letter-spacing: -1px;
     line-height: 1;
-
+    
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -240,7 +247,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    
     h2 {
         font-size: 32px;
 

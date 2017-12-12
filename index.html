@@ -13,7 +13,7 @@ layout: default
     {% for post in site.posts %}
     <li>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <span class="post-hint">{{post.Description}}</span>
+      <span class="post-hint">{{post.Editor}} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date }}</time></span>
     
     </li>
     {% endfor %}
