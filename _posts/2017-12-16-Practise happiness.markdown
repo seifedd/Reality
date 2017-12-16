@@ -15,3 +15,5 @@ The most of us would still be left feeling unfulfilled even if we have all of th
 Even if you do not feel happy, or do not feel as if you can simply decide to be happy, you can practice happiness. Make conscious decisions every day to choose to be as happy as you can be. `Pick positive things to say about yourself`, `choose positive thoughts`, and `eliminate old patterns of negative, depressing thoughts`. The more you do this, and the more effort you put into it each day, `the easier it can be to actually become happy. Yes, you can practice being happy to become happy!` What a wonderful concept. 
 
 [Operationmeditation.com]
+
+  
