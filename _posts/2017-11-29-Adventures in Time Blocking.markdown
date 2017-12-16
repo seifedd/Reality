@@ -35,7 +35,8 @@ Who knows - maybe you’ll start to see a pattern of ideas around a topic. Or yo
 
 I don’t believe that writing down your ideas means you’ll get more of them. It just means that you’ll be able to look at them and say “Wow, I’ve got a bunch of ideas!”
 
-<div> 
+<div > 
+ 
  <!--Disqus post comment section powered by Disqus -->
     <div id="disqus_thread"></div>
     <script>
@@ -61,5 +62,6 @@ I don’t believe that writing down your ideas means you’ll get more of them. 
           })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    
 </div>
 
