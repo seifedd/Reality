@@ -6,6 +6,7 @@ categories: ....
 Description: .... 
 Editor: Seifeddine Mejri
 permalink: Practise_happiness.html
+comments: true
 ---
 
 Money can not buy happiness. We are all familiar with this saying. But do we really believe in this especially nowadays in time where everyone may dream of having a palace or a beatifull house, a beautifull housewive or husband (in short a beautifull of everything!!) and yet still missing something. haha :p

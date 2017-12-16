@@ -4,6 +4,7 @@ title:  "Adventure in time blocking"
 Description: ....
 Editor: Seifeddine Mejri
 permalink: Adventure-in-time-blocking.html
+comments: true
 ---
 
 People have ideas, but don’t remember them. 
