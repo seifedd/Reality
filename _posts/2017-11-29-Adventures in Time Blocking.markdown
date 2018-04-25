@@ -11,7 +11,7 @@ People have ideas, but don’t remember them.
 
 What you need is a Spark File.
 
-The basic idea is this:
+The basic idea behind is this:
 
     Whenever you have a hunch or idea, put them together in remind. And don't judge them, don't think about them, just put them in there. And wait for the right time to grab them. Maybe one day that idea can become true. Who knows! 
 
