@@ -15,7 +15,7 @@ As **Amazon** prepares for the  *second biggest shopping event of the year* afte
 What happened is that Amazon is experiencing some trouble to manage all those users and it only took a couple of minutes before the hole server crunches and some users are not able to benefits from these "huge shopping deals". Very sad!
 
 >But at least we get a chance to have a glance at some dogs pictures. 
-![image-dog](/Reality/img/dog.jpg){:class="img-responsive"}
+![image-dog](/img/dog.jpg){:class="img-responsive"}
 >So maybe we maybe it is not that bad :shipit:
 
 
