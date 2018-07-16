@@ -16,7 +16,7 @@ What happened is that Amazon is experiencing some trouble to manage all those us
 
 But at least we get a chance to have a glance at some dogs pictures. 
 
-![Img_dog](https://github.com/seifedd/Reality/blob/master/img/dog.jpg "Image_dog")
+![Img_dog](https://github.com/seifedd/Reality/blob/master/img/dog2.jpg "Image_dog")
 
 So maybe we maybe it is not that bad :shipit:
 
