@@ -19,7 +19,7 @@ What happened is that Amazon is experiencing some trouble to manage all those us
 
 ![Img_dog](https://raw.githubusercontent.com/seifedd/Reality/master/img/dog3.jpg "Image_dog")
 So maybe we maybe it is not that bad  
-Seif {: .right}
+
 
 
 
