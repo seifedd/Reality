@@ -24,10 +24,8 @@ Mistake #4:  No procrastination
 
 
 
-![Img_dog](https://raw.githubusercontent.com/seifedd/Reality/master/img/dog.jpg "Image_dog")
 
-![Img_dog](https://raw.githubusercontent.com/seifedd/Reality/master/img/dog3.jpg "Image_dog")
-So maybe we maybe it is not that bad  
+So maybe that's what we need to do! 
 
 
 
