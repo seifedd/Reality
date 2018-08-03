@@ -4,7 +4,7 @@ title:  "Website issues as amazon prime day kicks off in US!"
 date:   2018-07-16 14:09:16 +0100
 categories: ....
 Description: .... 
-Editor: Seifeddine Mejri
+Editor: S. Mejri
 permalink: 0001.html
 comments: true
 ---
