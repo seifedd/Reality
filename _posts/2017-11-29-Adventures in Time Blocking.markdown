@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventure in time blocking"
 Description: ....
-Editor: Seifeddine Mejri
+Editor: S. Mejri
 permalink: Adventure-in-time-blocking.html
 comments: true
 ---

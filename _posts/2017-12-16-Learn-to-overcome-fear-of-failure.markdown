@@ -2,7 +2,7 @@
 layout: post
 title:  "Learn to overcome fear of failure"
 Description: ....
-Editor: Seifeddine Mejri
+Editor: S. Mejri
 permalink: Learn-to-overcome-fear-of-failure.html
 comments: true
 ---

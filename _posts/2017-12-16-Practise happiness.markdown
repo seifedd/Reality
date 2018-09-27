@@ -4,7 +4,7 @@ title:  "Practise happiness!"
 date:   2017-12-16 14:09:16 +0100
 categories: ....
 Description: .... 
-Editor: Seifeddine Mejri
+Editor: S. Mejri
 permalink: Practise_happiness.html
 comments: true
 ---
