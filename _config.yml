@@ -8,9 +8,8 @@
 # Site settings
 title: realifexperience
 email: seifelmejri@gmail.com
-description: "Awesome website.This website was designed in order to write what I could not say. It  is meant to be  a gateway of many thoughts that I would rather share than keep in mind.
-it is about social life skills & life experience
-             technology & engineering staff"
+description: A virtual proof that I'm awesome.This website was designed in order to write what I could not say. It  is meant to be  a gateway of many thoughts that I would rather share than keep in mind.
+
 
 #baseurl: "/Reality" # the subpath of your site, e.g. /blog
 url: "http://realifexperience.com" # the base hostname & protocol for your site
